@@ -5,6 +5,7 @@ from .artwork import *
 
 
 class Game:
+	
 	"""The primary logic for the game"""
 
 	def __init__(self, phrases):
