@@ -1,8 +1,7 @@
 import random
 import os
-
 from phrase import Phrase
-#from .artwork import *
+from .artwork import *
 
 
 class Game:
